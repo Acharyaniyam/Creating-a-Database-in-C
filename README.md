@@ -1,6 +1,5 @@
 CS 283 – Assignment 2: Tiny Computer Database
 Author: Niyam Acharya
-Student ID: [INSERT YOUR DREXEL ID]
 
 Description:
 ------------
